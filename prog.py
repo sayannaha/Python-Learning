@@ -1,6 +1,4 @@
 #Author: Sayan Naha
-#Date: 13/06/2018
-#Python Tutorial
 import random
 def gameWin(c, y):
     if c == y:
